@@ -1,0 +1,6 @@
+SELECT * FROM hotels
+WHERE id < 7
+INTERSECT
+SELECT * FROM hotels
+WHERE id > 5
+
