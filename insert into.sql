@@ -1,0 +1,1 @@
+INSERT INTO rooms (hotel_id, number, id, sea_view, standard, floor) VALUES (17, 132, 98, true, 'HIGH', 3);
